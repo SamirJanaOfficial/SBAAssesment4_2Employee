@@ -1,0 +1,1 @@
+# Design an employee form with emono not null, name not null, salary range between 8000to 130000 and dept should been entered compulsory. Email id of employee with valid email id. Not null and compulsory field should be validated of entering records.
